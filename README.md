@@ -132,6 +132,13 @@ Les propostes són benvingudes:
 4. Puja la branca: `git push origin feature/nova-funcionalitat`
 5. Obre un *Pull Request*.
 
+## 🙌 Crèdits
+
+- **Direcció del projecte:** el teu nom aquí (canvia la constant `AUTHOR` al codi; apareix a la pantalla *Créditos* del joc).
+- **Programació i disseny:** generat amb [Claude](https://claude.ai) (Anthropic).
+- **Motor 3D:** [Three.js](https://threejs.org/) r128, de mrdoob i col·laboradors (llicència MIT).
+- **Àudio:** sintetitzat en temps real amb la Web Audio API.
+
 ## 📄 Llicència
 
 Distribuït sota llicència **MIT**. Afegeix un fitxer `LICENSE` al repositori (GitHub el pot generar des de *Add file → Create new file → LICENSE*).
@@ -139,4 +146,3 @@ Distribuït sota llicència **MIT**. Afegeix un fitxer `LICENSE` al repositori (
 ---
 
 Fet amb ❤️ i molt neó.
-
